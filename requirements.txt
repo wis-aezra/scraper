@@ -1,0 +1,4 @@
+#sudo apt-get install python-poppler
+requests
+beautifulsoup4
+Pillow
